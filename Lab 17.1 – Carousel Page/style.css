@@ -1,0 +1,21 @@
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url("../img/challenges.jpg");
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url("../img/related-1.jpg");
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url("../img/post-img.jpg");
+}
+
+.bg-img1, .bg-img2, .bg-img3{
+    width:100%;
+    height: 600px;
+
+}
